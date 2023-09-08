@@ -1,5 +1,5 @@
 <div align="right">
-<img src="./Anc.png" height="75px" />
+<img src="./ANC.png" height="75px" />
 </div>
 
 # Anc Sample Apps
